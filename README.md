@@ -13,6 +13,7 @@ Em *programação*, desenvolvedores disponibilizam bibliotecas que possuem muita
 ![Foto Book](img/book.png)
 Um conjunto de *subprogramas ou funções*, geralmente organizadas em classes, que podem ser usadas para a construção de um *software ou aplicativo mobile*. As bibliotecas geralmente tornam a utilização de uma linguagem de programação mais fácil para nos ajudar no  desenvolvimento de uma aplicação de sucesso. É o recurso mais utilizado no mundo da *programação*.
 ***A ideia da biblioteca é compartilhar soluções por meio de funções ou métodos.***
+
 O mercado web nos oferece diversas soluções para desenvolver um software de qualidade e dentro das normas. 
 ![Foto Book](img/caixa.png)
 
