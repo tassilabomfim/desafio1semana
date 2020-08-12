@@ -1,2 +1,6 @@
 # desafio1semana
-Entrega de atividade 1 semana Git e Github
+
+# #Biblioteca e Framework 
+### (Conceitos e diferenças)
+
+![Giph](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)
