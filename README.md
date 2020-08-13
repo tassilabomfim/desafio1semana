@@ -37,13 +37,38 @@ Todas essas *bibliotecas* são externas ao seu projeto, porém, nativas da sua r
 
 Para darmos um exemplo ainda mais popular, podemos citar o ***jQuery***, talvez a *biblioteca* mais conhecida no universo da TI, principalmente, se você trabalha com ***desenvolvimento front-end***.
 
-##### A grande vantagem das Bibliotecas
+#### A grande vantagem das Bibliotecas
 Uma das grandes vantagens da criação de *bibliotecas* é que você pode utilizá-las em diferentes projetos. Essa prática vai ao encontro de um princípio muito importante de *Clean Code*: a divisão de responsabilidades. 
 ```sh
 ***As bibliotecas são poderosas aliadas quando falamos de desenvolvimento rápido de softwares complexos.***
 ```
 Além disso, uma biblioteca oferece suporte para as construções de ***frameworks***.
 <p align="left">
-<img src= "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="40%">
+<img src= "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="60%">
 </p>
 
+# **Frameworks**
+
+Diferente das bibliotecas o *framework* é um conjunto de componentes (códigos abstratos e/ou genéricos) que unem códigos com recursos iguais, contendo uma base pronta de um projeto. Ou seja, está ligado à ***arquitetura do seu software***.
+Um *framework* pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um *aplicativo mobile*, por exemplo.
+Utilizando um ***framework***, o desenvolvedor pode se concentrar em *desenvolver as funcionalidades* do seu app, sem se preocupar com tarefas repetitivas e até mesmo com a construção de componentes de tela, os quais já foram construídos previamente e já vem prontos para uso.
+Geralmente, um *framework* já vem com classes e funções para tarefas comuns, como ***leitura de arquivos e conexão a banco de dados***.
+
+Para não deixarmos de citar alguns exemplos de frameworks famosos, segue uma pequena lista:
+* ***Java –*** Hibernate e Spring
+* ***Ruby –*** Ruby on Rails
+* ***JavaScript –*** AngularJS
+* ***Python –*** Django
+* ***PHP –*** Zend e Laravel
+* ***C# –*** ASP .NET
+* ***CSS –*** Bootstrap
+.
+As funcionalidades de um framework podem ser bem variadas. Entre elas:
+* Persistência de dados;
+* Mapeamento de banco de dados relacional;
+* Implementação de MVC em aplicações web;
+* Geração de logs;
+* E entre outras possíveis funcionalidades.
+```sh
+O framework está ligado diretamente ao código fonte da aplicação. Isso significa que, para cada linguagem de programação, teremos frameworks diferentes, mesmo que eles exerçam a mesma função. 
+```
