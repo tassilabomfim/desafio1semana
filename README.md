@@ -37,3 +37,13 @@ Todas essas *bibliotecas* são externas ao seu projeto, porém, nativas da sua r
 
 Para darmos um exemplo ainda mais popular, podemos citar o ***jQuery***, talvez a *biblioteca* mais conhecida no universo da TI, principalmente, se você trabalha com ***desenvolvimento front-end***.
 
+##### A grande vantagem das Bibliotecas
+Uma das grandes vantagens da criação de *bibliotecas* é que você pode utilizá-las em diferentes projetos. Essa prática vai ao encontro de um princípio muito importante de *Clean Code*: a divisão de responsabilidades. 
+```sh
+***As bibliotecas são poderosas aliadas quando falamos de desenvolvimento rápido de softwares complexos.***
+```
+Além disso, uma biblioteca oferece suporte para as construções de ***frameworks***.
+<p align="left">
+<img src= "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="40%">
+</p>
+
