@@ -37,7 +37,7 @@ Todas essas *bibliotecas* são externas ao seu projeto, porém, nativas da sua r
 
 Para darmos um exemplo ainda mais popular, podemos citar o ***jQuery***, talvez a *biblioteca* mais conhecida no universo da TI, principalmente, se você trabalha com ***desenvolvimento front-end***.
 
-#### A grande vantagem das Bibliotecas
+### ***A grande vantagem das Bibliotecas***
 Uma das grandes vantagens da criação de *bibliotecas* é que você pode utilizá-las em diferentes projetos. Essa prática vai ao encontro de um princípio muito importante de *Clean Code*: a divisão de responsabilidades. 
 ```sh
 ***As bibliotecas são poderosas aliadas quando falamos de desenvolvimento rápido de softwares complexos.***
@@ -62,7 +62,8 @@ Para não deixarmos de citar alguns exemplos de frameworks famosos, segue uma pe
 * ***PHP –*** Zend e Laravel
 * ***C# –*** ASP .NET
 * ***CSS –*** Bootstrap
-.
+
+
 As funcionalidades de um framework podem ser bem variadas. Entre elas:
 * Persistência de dados;
 * Mapeamento de banco de dados relacional;
@@ -71,8 +72,16 @@ As funcionalidades de um framework podem ser bem variadas. Entre elas:
 * E entre outras possíveis funcionalidades.
 ```sh
 O framework está ligado diretamente ao código fonte da aplicação.
-Isso significa que, para cada linguagem de programação, teremos frameworks diferentes, mesmo que eles exerçam a mesma função. 
+Isso significa que, para cada linguagem de programação, teremos frameworks diferentes,
+mesmo que eles exerçam a mesma função. 
 ```
 <p align="left">
 <img src= "img/note.png" width="40%">
 </p>
+
+### ***Resumindo…***
+***Biblioteca:*** é uma coleção de implementações de comportamentos escritos em uma linguagem e importadas no seu código. Nesse caso, há uma interface bem definida para cada comportamento invocado. Um bom exemplo é a biblioteca jQuery que implementa certos comportamentos, como por exemplo, a manipulação do HTML.
+***Framework:*** estrutura real, ou conceitual, que visa servir como suporte (ou guia) para a construção de algo (um produto, por exemplo). “Este algo” herdará as características desta estrutura, implementando o produto final (“algo”).
+ 
+***Voltamos em breve.. E não esqueça de praticar!***
+<a href="undefined">Natasha Remarchuk</a> from <a href="https://icons8.com/">Icons8</a>
