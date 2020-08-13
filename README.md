@@ -2,8 +2,9 @@
 
 # #Biblioteca e Framework 
 ### (Conceitos e diferenças)
-![Giphy](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
-
+<p align="center">
+<img src= "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50%">
+</p>
 
 Quando se fala em usar *tecnologia da informação* é importante conhecer bem  os recursos disponíveis para aperfeiçoar o seu trabalho e entender os conceitos envolvidos na área de *desenvolvimento*. Pensando nisso, hoje vamos apresentar os conceitos e as diferenças entre **bibliotecas** e **frameworks** envolvidos.
 
@@ -26,6 +27,7 @@ Exemplo:
 Ou quando for fazer um ***toUpper*** em ***Java***, você está usando a biblioteca ***java.Lang***. 
 
 Todas essas *bibliotecas* são externas ao seu projeto, porém, nativas da sua respectiva linguagem. Se for necessário, você também pode importar bibliotecas que não são nativas.
+
 ***Além disso, também é possível criar bibliotecas internas no seu projeto.***
 
 Para darmos um exemplo ainda mais popular, podemos citar o ***jQuery***, talvez a *biblioteca* mais conhecida no universo da TI, principalmente, se você trabalha com ***desenvolvimento front-end***.
