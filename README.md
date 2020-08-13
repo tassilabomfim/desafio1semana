@@ -82,6 +82,7 @@ mesmo que eles exerçam a mesma função.
 
 ### ***Resumindo…***
 ***Biblioteca:*** é uma coleção de implementações de comportamentos escritos em uma linguagem e importadas no seu código. Nesse caso, há uma interface bem definida para cada comportamento invocado. Um bom exemplo é a biblioteca jQuery que implementa certos comportamentos, como por exemplo, a manipulação do HTML.
+
 ***Framework:*** estrutura real, ou conceitual, que visa servir como suporte (ou guia) para a construção de algo (um produto, por exemplo). “Este algo” herdará as características desta estrutura, implementando o produto final (“algo”).
  
 ***Voltamos em breve.. E não esqueça de praticar!***
