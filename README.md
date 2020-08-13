@@ -70,7 +70,8 @@ As funcionalidades de um framework podem ser bem variadas. Entre elas:
 * Geração de logs;
 * E entre outras possíveis funcionalidades.
 ```sh
-O framework está ligado diretamente ao código fonte da aplicação. Isso significa que, para cada linguagem de programação, teremos frameworks diferentes, mesmo que eles exerçam a mesma função. 
+O framework está ligado diretamente ao código fonte da aplicação.
+Isso significa que, para cada linguagem de programação, teremos frameworks diferentes, mesmo que eles exerçam a mesma função. 
 ```
 <p align="left">
 <img src= "img/note.png" width="40%">
