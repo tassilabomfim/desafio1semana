@@ -50,10 +50,12 @@ Além disso, uma biblioteca oferece suporte para as construções de ***framewor
 # **Frameworks**
 
 Diferente das bibliotecas o *framework* é um conjunto de componentes (códigos abstratos e/ou genéricos) que unem códigos com recursos iguais, contendo uma base pronta de um projeto. Ou seja, está ligado à ***arquitetura do seu software***.
-Um *framework* pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um *aplicativo mobile*, por exemplo.
-Utilizando um ***framework***, o desenvolvedor pode se concentrar em *desenvolver as funcionalidades* do seu app, sem se preocupar com tarefas repetitivas e até mesmo com a construção de componentes de tela, os quais já foram construídos previamente e já vem prontos para uso.
-Geralmente, um *framework* já vem com classes e funções para tarefas comuns, como ***leitura de arquivos e conexão a banco de dados***.
 
+Um *framework* pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um *aplicativo mobile*, por exemplo.
+
+Utilizando um ***framework***, o desenvolvedor pode se concentrar em *desenvolver as funcionalidades* do seu app, sem se preocupar com tarefas repetitivas e até mesmo com a construção de componentes de tela, os quais já foram construídos previamente e já vem prontos para uso.
+
+Geralmente, um *framework* já vem com classes e funções para tarefas comuns, como ***leitura de arquivos e conexão a banco de dados***.
 Para não deixarmos de citar alguns exemplos de frameworks famosos, segue uma pequena lista:
 * ***Java –*** Hibernate e Spring
 * ***Ruby –*** Ruby on Rails
@@ -84,4 +86,6 @@ mesmo que eles exerçam a mesma função.
 ***Framework:*** estrutura real, ou conceitual, que visa servir como suporte (ou guia) para a construção de algo (um produto, por exemplo). “Este algo” herdará as características desta estrutura, implementando o produto final (“algo”).
  
 ***Voltamos em breve.. E não esqueça de praticar!***
-<a href="undefined">Natasha Remarchuk</a> from <a href="https://icons8.com/">Icons8</a>
+<p align="left">
+<img src= "img/love.png" width="40%">
+</p>
