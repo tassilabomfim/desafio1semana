@@ -2,8 +2,8 @@
 
 # #Biblioteca e Framework 
 ### (Conceitos e diferenças)
-<p align="right">
-<img src= "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="15%">
+<p align="left">
+<img src= "https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="20%">
 </p>
 
 Quando se fala em usar *tecnologia da informação* é importante conhecer bem  os recursos disponíveis para aperfeiçoar o seu trabalho e entender os conceitos envolvidos na área de *desenvolvimento*. Pensando nisso, hoje vamos apresentar os conceitos e as diferenças entre **bibliotecas** e **frameworks** envolvidos.
@@ -11,7 +11,7 @@ Quando se fala em usar *tecnologia da informação* é importante conhecer bem  
 # **Bibliotecas**
 
 Em *programação*, desenvolvedores disponibilizam bibliotecas que possuem muitas funções prontas. Assim, outros programadores podem utilizá-las, permitindo que o desenvolvimento seja mais simples e rápido.
-<p align="right">
+<p align="left">
 <img src= "img/book.png" width="40%">
 </p>
 
@@ -21,7 +21,7 @@ As bibliotecas geralmente tornam a utilização de uma linguagem de programaçã
 ***A ideia da biblioteca é compartilhar soluções por meio de funções ou métodos.***
 
 O mercado web nos oferece diversas soluções para desenvolver um software de qualidade e dentro das normas. 
-<p align="right">
+<p align="left">
 <img src= "img/caixa.png" width="40%">
 </p>
 
